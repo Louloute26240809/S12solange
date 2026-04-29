@@ -1,0 +1,8 @@
+DevOps YouTube video links
+
+1. DevOps Roadmap for Beginners - https://www.youtube.com/watch?v=9pZ2xmsSDdo
+2. DevOps Full Course - https://www.youtube.com/watch?v=j5Zsa_eOXeY
+3. Docker Tutorial for Beginners - https://www.youtube.com/watch?v=3c-iBn73dDE
+4. Kubernetes Tutorial for Beginners - https://www.youtube.com/watch?v=X48VuDVv0do
+5. Jenkins Tutorial for Beginners - https://www.youtube.com/watch?v=FX322RVNGj4
+6. Terraform Full Course - https://www.youtube.com/watch?v=SLB_c_ayRMo
